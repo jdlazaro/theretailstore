@@ -1,0 +1,7 @@
+C:\Users\john.paul.d.lazaro\Desktop\the retail\MyExam\MyExam\bin\Debug\MyExam.exe.config
+C:\Users\john.paul.d.lazaro\Desktop\the retail\MyExam\MyExam\bin\Debug\MyExam.exe
+C:\Users\john.paul.d.lazaro\Desktop\the retail\MyExam\MyExam\bin\Debug\MyExam.pdb
+C:\Users\john.paul.d.lazaro\Desktop\the retail\MyExam\MyExam\obj\Debug\MyExam.csprojAssemblyReference.cache
+C:\Users\john.paul.d.lazaro\Desktop\the retail\MyExam\MyExam\obj\Debug\MyExam.csproj.CoreCompileInputs.cache
+C:\Users\john.paul.d.lazaro\Desktop\the retail\MyExam\MyExam\obj\Debug\MyExam.exe
+C:\Users\john.paul.d.lazaro\Desktop\the retail\MyExam\MyExam\obj\Debug\MyExam.pdb
